@@ -30,6 +30,9 @@ body {
   border-radius: .3rem;
   font-weight: 600;
 }
+.card > input:focus, button:focus {
+  outline-color: #d8d8d8;
+}
 .card > input {
   background-color: #121212;
   color: #f0ffff;
