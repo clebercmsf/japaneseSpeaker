@@ -55,6 +55,9 @@ body {
   .card{
     width: 20rem;
   }
+  .card > h1 {
+    font-size: 1.85rem;
+  }
   .card > input {
     font-size: .71rem;
   }
