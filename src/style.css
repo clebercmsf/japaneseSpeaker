@@ -40,3 +40,7 @@ body {
   box-shadow: .1rem .1rem 1rem #f0ffff;
   cursor: pointer;
 }
+.card > button:active {
+  background-color: #d8d8d8;
+  box-shadow: .1rem .1rem 1rem #d8d8d8;
+}
